@@ -1,0 +1,27 @@
+
+.new{height: 100px;
+    width: 100vh;
+    
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.new ul{
+    display: flex ;
+}
+.new ul li{
+    list-style: none;
+    padding: 30px;
+    background-color: rgb(67, 65, 65);
+    font-weight: bolder;
+    color: white;
+    width: 150px;
+
+}
+.new ul .active{
+    background-color: green;
+
+}
+.new ul li:hover{
+    background-color: black;
+}

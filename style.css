@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    
+}
+#main{
+margin-top: 05%;
+margin-left: 32%;
+
+}
+.heading{
+color: blue;
+    cursor: pointer;
+    margin-left: 20vh;
+    
+}
+.table{
+    background-color:red;
+    width: 60%;
+}
+.table td{
+
+    color: red;
+    background-color: wheat;
+    padding: 15px;
+ 
+ }  
+   
+h1{
+    font-size: 10vh;
+    margin-right: 50%;
+}    
+
+.table td:hover{
+    color: red;
+    background-color: black;
+    border: 2px;
+    border-radius: 100px;
+    transition-delay: 1;
+    transition-duration: 2;
+    
+}
+button{
+    margin-top: 3%;
+    margin-left: 32%;
+    font-size: 30px;
+    width: 41%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: gray;
+    
+
+}
+button:hover{
+    color: white;
+    background-color:black;
+    border-radius: 100vh;
+    color:blue ;
+    background-color: red;
+    transition: all 1s;
+    
+    
+}
